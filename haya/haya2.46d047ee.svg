@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="211px" height="147px" viewBox="0 0 211 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>haya2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="haya2now-dashboard" transform="translate(-134.000000, -100.000000)">
+            <g id="haya2-2" transform="translate(135.000000, 101.000000)">
+                <g>
+                    <path d="M97.2687204,100.98952 C97.9678093,103.443475 100.231348,105.243316 102.922384,105.243316 C105.61342,105.243316 107.877373,103.443475 108.576047,100.98952 L97.2687204,100.98952 L97.2687204,100.98952 Z" id="Shape" stroke="#C3EAFF" stroke-width="0.2"></path>
+                    <g id="Group" stroke="#C3EAFF">
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="0" y="0" width="47.4766757" height="46.8107345"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="0.708211022" y="98.9170621" width="47.4766757" height="46.8107345"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="0.708211022" y="48.9702147" width="45.1534284" height="47.5584689"></rect>
+                        <ellipse id="Oval" stroke-width="0.2" cx="11.1364939" cy="8.4300565" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="35.8463414" cy="8.4300565" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="11.1364939" cy="37.527774" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="35.8463414" cy="37.527774" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="11.1364939" cy="58.3364859" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="35.8463414" cy="58.3364859" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="11.1364939" cy="87.4350282" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="35.8463414" cy="87.4350282" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="37.0488074" cy="137.296915" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="12.3385453" cy="137.296915" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="37.0488074" cy="108.200023" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="12.3385453" cy="108.200023" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="11.356255" y="45.3684689" width="0.782846844" height="5.32363842"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="35.454918" y="45.3684689" width="0.782846844" height="5.32363842"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="36.0461995" y="95.0356893" width="0.782846844" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="11.9471219" y="95.0356893" width="0.782846844" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="45.8616394" y="60.6254689" width="41.0492875" height="1.19398305"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="45.8616394" y="83.3725989" width="41.0492875" height="1.4360791"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="44.9432042" y="61.2775198" width="1.8376998" height="0.385075"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="44.9432042" y="83.9611356" width="1.8376998" height="0.385075"></rect>
+                        <polygon id="Shape" stroke-width="0.5" points="59.2363787 62.9750791 59.2363787 62.1262994 56.3682899 62.1262994 56.3682899 62.9750791 57.4853394 64.0985367 57.4853394 81.4003616 56.3682899 82.5242316 56.3682899 83.3725989 59.2363787 83.3725989 59.2363787 82.5242316 58.1193293 81.4003616 58.1193293 64.0985367"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(122.319819, 0.000000)" stroke="#C3EAFF">
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="39.8294064" y="98.9170621" width="47.4766757" height="46.8107345"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="39.1207808" y="0" width="47.4766757" height="46.8107345"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" fill-opacity="0.05" fill="#C2EAFF" x="41.444028" y="49.199113" width="45.1530137" height="47.5580565"></rect>
+                        <ellipse id="Oval" stroke-width="0.2" cx="76.1695882" cy="137.297328" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="51.4593261" cy="137.297328" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="76.1695882" cy="108.200023" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="51.4593261" cy="108.200023" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="76.1695882" cy="87.3913107" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="51.4593261" cy="87.3913107" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="76.1695882" cy="58.2927684" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="51.4593261" cy="58.2927684" rx="0.671722398" ry="0.668135593"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="50.25686" cy="8.43046893" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="74.9671221" cy="8.43046893" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="50.25686" cy="37.527774" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <ellipse id="Oval" stroke-width="0.2" cx="74.9671221" cy="37.527774" rx="0.671307755" ry="0.667723164"></ellipse>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="75.1669803" y="95.0361017" width="0.782432201" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="51.0679026" y="95.0361017" width="0.782846844" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="50.4766211" y="45.3688814" width="0.782846844" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="74.5756987" y="45.3688814" width="0.782432201" height="5.32322599"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="0.39474057" y="83.9083446" width="41.0492875" height="1.19398305"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="0.39474057" y="60.9187062" width="41.0492875" height="1.4360791"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="40.5247635" y="84.189209" width="1.8376998" height="0.385075"></rect>
+                        <rect id="Rectangle-path" stroke-width="0.5" x="40.5247635" y="61.5055932" width="1.8376998" height="0.385075"></rect>
+                        <polygon id="Shape" stroke-width="0.5" points="28.0692887 83.0468884 28.0692887 83.9083446 30.9369629 83.9083446 30.9369629 83.0468884 29.820328 81.9072057 29.820328 64.3559243 30.9369629 63.2158231 30.9369629 62.3547853 28.0692887 62.3547853 28.0692887 63.2158231 29.1863382 64.3559243 29.1863382 81.9072057"></polygon>
+                    </g>
+                    <rect id="Rectangle-path" stroke="#C3EAFF" stroke-width="0.5" x="86.9109269" y="44.6603277" width="35.8036331" height="56.3296045"></rect>
+                    <g id="Group" transform="translate(94.953351, 100.632768)" stroke="#C3EAFF" stroke-width="0.5">
+                        <g transform="translate(11.610017, 0.000000)">
+                            <rect id="Rectangle-path" x="1.6602324" y="0.356751412" width="4.78913191" height="3.70526554"></rect>
+                            <polygon id="Shape" points="5.61302846 4.06242938 2.49656825 4.06242938 0.139734845 12.0012825 7.96986186 12.0012825"></polygon>
+                        </g>
+                        <g>
+                            <rect id="Rectangle-path" x="1.65940311" y="0.356751412" width="4.78954656" height="3.70526554"></rect>
+                            <polygon id="Shape" points="5.61261382 4.06242938 2.49573896 4.06242938 0.138905558 12.0012825 7.96944722 12.0012825"></polygon>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="114.352445" y="48.5924294" width="4.92886676" height="4.14037853"></rect>
+                    <ellipse id="Oval" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" cx="104.904794" cy="83.3725989" rx="1.82443121" ry="1.81468927"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" cx="104.698716" cy="48.5924294" rx="3.57298266" ry="3.55390395"></ellipse>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="96.1089627" y="90.8581921" width="3.87691631" height="10.1313277"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="96.9452985" y="85.579096" width="3.04058046" height="2.40611299"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="103.080363" y="85.579096" width="8.30821092" height="2.40611299"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="111.084226" y="94.2607345" width="3.87691631" height="6.72878531"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="103.786501" y="92.4460452" width="5.01718581" height="5.17887571"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="110.24789" y="90.8581921" width="0.83633585" height="1.05870621"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="113.022684" y="89.6485367" width="2.47044571" height="1.20965537"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="114.961142" y="91.9168983" width="1.21614926" height="2.34383616"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" transform="translate(122.712178, 100.989287) rotate(-45.000000) translate(-122.712178, -100.989287) " x="121.249744" y="97.6999881" width="2.92486689" height="6.57859793"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" transform="translate(86.910142, 100.991919) rotate(-135.000000) translate(-86.910142, -100.991919) " x="85.4477084" y="97.7026197" width="2.92486689" height="6.57859793"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" transform="translate(122.714718, 44.658157) rotate(45.000000) translate(-122.714718, -44.658157) " x="121.252285" y="41.3688578" width="2.92486689" height="6.57859793"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" transform="translate(86.912683, 44.660580) rotate(135.000000) translate(-86.912683, -44.660580) " x="85.4502493" y="41.3712809" width="2.92486689" height="6.57859793"></rect>
+                    <rect id="Rectangle-path" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" x="91.459151" y="90.8581921" width="1.95753175" height="3.40254237"></rect>
+                    <polygon id="Shape" stroke-opacity="0.5" stroke="#C2EAFF" stroke-width="0.5" points="111.777095 40.4267401 112.874242 38.8830169 107.409655 37.8857627 106.480025 40.4267401 103.145462 40.4267401 102.215831 37.8857627 96.4589217 38.8834294 97.6626317 40.4267401 94.6266123 40.4267401 94.6266123 44.6603277 114.999289 44.6603277 114.999289 40.4267401"></polygon>
+                    <ellipse id="Oval" fill="#415362" fill-rule="nonzero" cx="88.3190561" cy="69.0819209" rx="16.5857382" ry="16.4971751"></ellipse>
+                    <ellipse id="Oval" fill="#415362" fill-rule="nonzero" cx="121.490533" cy="69.0819209" rx="16.5857382" ry="16.4971751"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
